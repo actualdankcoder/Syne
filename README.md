@@ -1,6 +1,6 @@
 # Syne Programming Language
 
-![Logo](https://i.imgur.com/djYlSOg.png){ width=50% height=50% }
+<img src="https://camo.githubusercontent.com/4de7c49aa7e7b9c1bcd91408e6638fd0e52b78d1/68747470733a2f2f692e696d6775722e636f6d2f646a596c534f672e706e67" alt="Logo" data-canonical-src="https://i.imgur.com/djYlSOg.png" width=50% height=50% style="max-width:100%;">
 
 
 
