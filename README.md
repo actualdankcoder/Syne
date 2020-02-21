@@ -1,6 +1,6 @@
 # Syne Programming Language
 
-![Logo](https://i.imgur.com/djYlSOg.png)
+![Logo](https://i.imgur.com/djYlSOg.png=100x100)
 
 
 
